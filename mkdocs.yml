@@ -1,0 +1,8 @@
+site_name: Pdnode Status Server 文档
+nav:
+  - 首页: index.md
+  - 快速开始: getting-started.md
+docs_dir: docs
+theme:
+  name: readthedocs
+git commit -m "初始提交"
