@@ -5,4 +5,3 @@ nav:
 docs_dir: docs
 theme:
   name: readthedocs
-git commit -m "初始提交"
