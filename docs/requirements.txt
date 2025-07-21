@@ -1,0 +1,8 @@
+mkdocs
+mkdocs-material
+
+# 可选插件（根据需要添加）
+mkdocs-mermaid2-plugin       # Mermaid 图表支持
+mkdocs-markdownextradata-plugin  # 变量支持
+mkdocs-git-revision-date-localized-plugin  # 显示文档最后更新时间
+mkdocs-localsearch           # 本地搜索功能（替代 Algolia）
